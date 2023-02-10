@@ -1,0 +1,2 @@
+- application.yml中配置一下ChatGPT的apiKey
+- 配置一下飞书的appId和appSecret
