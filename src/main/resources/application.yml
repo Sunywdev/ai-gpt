@@ -1,0 +1,15 @@
+server:
+  port: 6253
+  servlet:
+    context-path: /openai
+openai:
+  #apiKey
+  token:
+  #超时时间
+  timeout: 40000
+feishu:
+  gpt:
+    #飞书的appId
+    appid:
+    #飞书的密钥
+    appSecret:
